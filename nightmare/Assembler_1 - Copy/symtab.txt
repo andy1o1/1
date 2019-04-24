@@ -1,0 +1,5 @@
+AREG,Y	
+AREG,X	
+ MOVEM	202
+Y	204
+X	203
